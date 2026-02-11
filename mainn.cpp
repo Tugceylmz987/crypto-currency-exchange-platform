@@ -1,3 +1,5 @@
+//Program entry point
+
 #include <iostream>
 #include <vector>
 #include <string>
