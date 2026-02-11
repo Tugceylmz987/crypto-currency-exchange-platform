@@ -1,4 +1,6 @@
-﻿#include <iostream>
+// run main.cpp, not this 
+
+#include <iostream>
 #include <vector>
 #include <string>
 #include <fstream>
