@@ -26,6 +26,7 @@ class MerkelMain
 		int getUserOption();// this function gets the user option
 		void processUserOption(int userOption); // this function processes the user option
 	
+		//you have to pass an argument into its constructor, which is the name of the data file.
 		OrderBook orderBook{"20200317.csv"};
 
 };
